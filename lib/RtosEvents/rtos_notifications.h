@@ -1,0 +1,8 @@
+#ifndef RTOS_NOTIFICATIONS_H
+#define RTOS_NOTIFICATIONS_H
+
+#define CONTROL_NOTIFY_RESET    (1UL << 0)
+#define CONTROL_NOTIFY_SAFE_STOP   (1UL << 1)
+
+
+#endif
